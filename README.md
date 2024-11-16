@@ -53,7 +53,7 @@
 
 
 ## Contributors
-Created by [@cmurakonda](https://github.com/cmurakonda/) and [@CharuGarg-2024](https://github.com/@CharuGarg-2024/) - feel free to contact us!
+Created by [@cmurakonda](https://github.com/cmurakonda/) and [@CharuGarg-2024](https://github.com/CharuGarg-2024/) - feel free to contact us!
 
 
 <!-- Optional -->

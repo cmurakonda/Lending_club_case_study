@@ -48,7 +48,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This project was inspired by S Anand CEO, Gramener EDA lessons on UpGrad
+- This project was inspired by S Anand CEO, Gramener. He is SME for EDA classes on UpGrad
 - UpGrad tutorials on Exploratory Data Analysis (EDA)
 
 
